@@ -350,3 +350,18 @@ labelBalance.addEventListener('click', function () {
 });
 ///////////////////////////////////////
 */
+
+/*
+///////////////////////////////////////
+const diaMeter = 287_540_000_000;
+console.log(diaMeter);
+
+const price = 350_25;
+console.log(price);
+
+const PI = 3.14_15;
+console.log(PI);
+
+console.log(Number('250_00')); //NAN
+///////////////////////////////////////
+*/
