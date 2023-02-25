@@ -365,3 +365,7 @@ console.log(PI);
 console.log(Number('250_00')); //NAN
 ///////////////////////////////////////
 */
+
+///////////////////////////////////////
+console.log(2 ** 53 - 1);
+console.log(Number.MAX_SAFE_INTEGER);
