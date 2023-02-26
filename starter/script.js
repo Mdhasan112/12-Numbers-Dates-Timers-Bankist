@@ -386,3 +386,32 @@ const num = 155000454;
 console.log(hug * BigInt(num));
 ///////////////////////////////////////
 */
+
+/*
+///////////////////////////////////////
+const now = new Date();
+console.log(now);
+
+console.log(new Date('Feb 26 2023 18:55:11'));
+console.log(new Date('December 15 2016'));
+console.log(new Date(account1.movementsDates[0]));
+console.log(new Date(2037, 10, 5, 20, 10, 8));
+console.log(new Date(2037, 10, 31));
+
+//Working with dates
+const future = new Date(2037, 10, 5, 20, 10);
+console.log(future.getFullYear());
+console.log(future.getMonth());
+console.log(future.getDate());
+console.log(future.getHours());
+console.log(future.getMinutes());
+console.log(future.getTime());
+
+console.log(new Date(2141043000000));
+
+console.log(Date.now());
+
+future.setFullYear(2040);
+console.log(future);
+///////////////////////////////////////
+*/
