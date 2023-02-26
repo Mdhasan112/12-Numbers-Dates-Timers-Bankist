@@ -366,6 +366,23 @@ console.log(Number('250_00')); //NAN
 ///////////////////////////////////////
 */
 
+/*
 ///////////////////////////////////////
 console.log(2 ** 53 - 1);
 console.log(Number.MAX_SAFE_INTEGER);
+console.log(2 ** 53 + 1);
+console.log(2 ** 53 + 2);
+console.log(2 ** 53 + 3);
+
+console.log(45325212148777771155878002544n);
+console.log(BigInt(4532521214));
+
+//Operations
+console.log(10000n * 10000n);
+console.log(5454512121255854545n * 1000000n);
+
+const hug = 455125552222222222222n;
+const num = 155000454;
+console.log(hug * BigInt(num));
+///////////////////////////////////////
+*/
